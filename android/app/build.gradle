@@ -3,9 +3,7 @@ apply plugin: "com.android.application"
 import com.android.build.OutputFile
 
 project.ext.react = [
-        entryFile: "index.js",
-        jsBundleDirDebug: "$buildDir/intermediates/merged_assets/debug/mergeDebugAssets/out",
-        jsBundleDirRelease: "$buildDir/intermediates/merged_assets/release/mergeReleaseAssets/out"
+        entryFile: "index.js"
 ]
 /**
  * The react.gradle file registers a task for each build variant (e.g. bundleDebugJsAndAssets
