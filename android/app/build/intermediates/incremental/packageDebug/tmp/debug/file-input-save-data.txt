@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Sep 16 17:59:27 PKT 2019
+#Mon Sep 16 20:40:11 PKT 2019
 5.base=/Volumes/Storage/mypro/DemoApp/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/Volumes/Storage/mypro/DemoApp/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 22.path=lib/armeabi-v7a/libjsinspector.so
