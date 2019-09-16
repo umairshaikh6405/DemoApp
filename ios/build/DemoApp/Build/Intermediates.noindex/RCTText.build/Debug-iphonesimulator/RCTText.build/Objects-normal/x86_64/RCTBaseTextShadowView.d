@@ -1,0 +1,24 @@
+dependencies: \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.m \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Volumes/Storage/mypro/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.h

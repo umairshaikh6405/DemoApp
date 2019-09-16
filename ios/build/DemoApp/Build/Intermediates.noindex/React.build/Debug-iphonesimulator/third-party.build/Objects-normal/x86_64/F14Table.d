@@ -1,0 +1,26 @@
+dependencies: \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.cpp \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Bits.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Likely.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ScopeGuard.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/UncaughtExceptions.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Align.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Launder.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/SafeAssert.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Defaults.h \
+  /Volumes/Storage/mypro/DemoApp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14IntrinsicsAvailability.h
